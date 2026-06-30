@@ -1,0 +1,14 @@
+{
+  "groceries": "Food",
+  "food": "Food",
+  "bus": "Transport",
+  "transport": "Transport",
+  "bills": "Bills",
+  "electric bill": "Bills",
+  "entertainment": "Entertainment",
+  "health": "Health",
+  "shopping": "Shopping",
+  "study": "Study",
+  "travel": "Travel",
+  "household": "Household"
+}
