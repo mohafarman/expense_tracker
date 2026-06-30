@@ -1,2 +1,2 @@
-# expense_tracker
+# Expense Tracker
 A project I built during the Applied Programming with Python course DA667A at Kristianstad University.
