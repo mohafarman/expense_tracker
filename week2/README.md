@@ -5,3 +5,7 @@ The cleaning rules that was used was similar to the one for *Week 2, Session 2* 
 Invalid rows was handled by simply raising an error and counting the number of invalid rows to display to the user.
 
 There were a few assumptions that I made. First and foremost, the date column was "normal" and did not seem to need any cleaning up. So I skipped processing it. I interpeted the numbers as float and did not bother to check if it was an integer. From a quick look it seemed like the *currency* column was correctly formatted. However, I still capitalized it.
+
+### Example usage
+
+![Expense Tracker](output.png "Example")
