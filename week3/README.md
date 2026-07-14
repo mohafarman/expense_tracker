@@ -1,3 +1,17 @@
 ## Week 3, Project
 
 The summaries that were created was spending by category and by month compared to a budget targets in both csv and chart format. The chart for spending by category shows a linear relationshio between spending costs in SEK and time in months. The month with the highest expenses was in march and the month with the lowest expenses was in may. The chart that shows expenses in category comparing to budget targets is the most interesting one. Here I have generated a bar chart with two bars, one reflecting *Total Spending* and one displaying the *BudgetTarget* in each category. In this chart we can see that it is very costly to live in Sweden (bills) and that we maybe have a little too much fun (entertainment).
+
+### How to run
+
+``` sh
+python main.py
+```
+
+### Charts
+
+The charts that are output.
+
+![Month chart](./output/month_chart.png)
+
+![Category chart with comparison of budget targets](./output/category_chart.png)
