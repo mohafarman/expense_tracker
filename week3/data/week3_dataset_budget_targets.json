@@ -1,0 +1,11 @@
+{
+  "Food": 4000,
+  "Transport": 2200,
+  "Bills": 6500,
+  "Entertainment": 1600,
+  "Health": 1200,
+  "Shopping": 2500,
+  "Study": 1800,
+  "Travel": 3000,
+  "Household": 1500
+}
