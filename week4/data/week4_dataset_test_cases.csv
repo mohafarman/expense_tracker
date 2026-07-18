@@ -1,0 +1,5 @@
+date,category,description,amount,payment_method,currency,merchant,city,month
+2026-01-10,Food,Groceries,500,card,SEK,ICA,Kristianstad,2026-01
+2026-01-11,Transport,Bus Card,620,card,SEK,Skane Trafiken,Kristianstad,2026-01
+2026-02-02,Bills,Internet,450,bank_transfer,SEK,Telia,Lund,2026-02
+2026-02-12,Food,Restaurant,320,card,SEK,Espresso House,Malmo,2026-02
