@@ -1,0 +1,34 @@
+========================================
+Expense Tracker
+Analysis of data from data/week5_dataset_expenses_final.csv compared to budget targets from data/week5_dataset_budget_targets.json
+
+Summary:
+Total expenses:		411603.50 SEK
+Most expensive expense happened 2026-06-15 and costed you 17889.318 SEK which was a breakfast.
+Most cheapest expense happened 2026-05-22 and costed you 34.2 SEK which was a train ticket.
+Spending by month:
+	2026-01		58796.37 SEK
+	2026-02		73817.32 SEK
+	2026-03		100761.86 SEK
+	2026-04		72932.00 SEK
+	2026-05		38603.30 SEK
+	2026-06		66692.64 SEK
+
+Which is an average expending of 68600.58 SEK every month
+
+Spending by category:
+	Bills		50631.07 SEK
+	Entertainment	39452.67 SEK
+	Food		69924.50 SEK
+	Health		57437.70 SEK
+	Household	45560.81 SEK
+	Shopping	33628.44 SEK
+	Study		44059.17 SEK
+	Transport	32176.76 SEK
+	Travel		38732.37 SEK
+
+Summary chart and csv of spending by category written to:
+	output/category_chart.png and output/category_summary.csv
+Summary chart csv of spending by month written to
+	output/month_chart.png and output/month_summary.csv
+========================================

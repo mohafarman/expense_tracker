@@ -1,0 +1,342 @@
+date,category,description,amount,payment_method,currency,merchant,city,month
+2026-06-23,Household,Cleaning Supplies,957.07,card,SEK,Lidl,Malmo,2026-06
+2026-03-01,Household,Cleaning Supplies,911.15,mobile_payment,SEK,Ryanair,Stockholm,2026-03
+2026-03-13,Food,Coffee,1126.08,bank_transfer,SEK,Skane Trafiken,Malmo,2026-03
+2026-03-28,Transport,Bus Card,626.49,bank_transfer,SEK,Apoteket,Kristianstad,2026-03
+2026-04-28,Household,Cleaning Supplies,1557.79,mobile_payment,SEK,Hm,Stockholm,2026-04
+2026-04-03,Entertainment,Movie,101.94,cash,DKK,Hm,Kristianstad,2026-04
+2026-03-01,Transport,Taxi,466.42,bank_transfer,SEK,Shell,Lund,2026-03
+2026-02-23,Health,Pharmacy,986.34,cash,SEK,Filmstaden,Malmo,2026-02
+2026-04-29,Study,Printing,1583.55,cash,SEK,Akademibokhandeln,Kristianstad,2026-04
+2026-02-28,Food,Restaurant,659.83,card,SEK,Akademibokhandeln,Malmo,2026-02
+2026-06-17,Travel,Local Transport,1418.95,mobile_payment,SEK,Apoteket,Malmo,2026-06
+2026-03-05,Household,Lamp,1202.81,mobile_payment,SEK,Espresso House,Lund,2026-03
+2026-02-26,Bills,Rent Share,804.82,card,SEK,Skane Trafiken,Malmo,2026-02
+2026-06-24,Study,Book,634.08,mobile_payment,SEK,Apoteket,Stockholm,2026-06
+2026-01-03,Transport,Parking,1208.88,bank_transfer,SEK,Hm,Helsingborg,2026-01
+2026-02-10,Travel,Hotel,1527.49,bank_transfer,SEK,Eon,Stockholm,2026-02
+2026-01-28,Health,Clinic,269.96,cash,SEK,Ica,Stockholm,2026-01
+2026-03-24,Travel,Hotel,205.63,bank_transfer,SEK,Filmstaden,Kristianstad,2026-03
+2026-03-03,Transport,Bus Card,1179.09,card,DKK,,Malmo,2026-03
+2026-06-18,Travel,Flight,446.14,mobile_payment,SEK,Telia,Lund,2026-06
+2026-04-13,Shopping,Gift,1442.39,mobile_payment,SEK,Filmstaden,Malmo,2026-04
+2026-01-17,Shopping,Clothes,953.64,cash,SEK,Filmstaden,Kristianstad,2026-01
+2026-03-02,Health,Vitamins,366.35,cash,SEK,Ikea,Malmo,2026-03
+2026-05-02,Study,Course Fee,178.09,mobile_payment,SEK,Netflix,Helsingborg,2026-05
+2026-04-30,Food,Snacks,1055.93,card,SEK,Espresso House,Lund,2026-04
+2026-01-28,Entertainment,Streaming,328.63,mobile_payment,SEK,Netflix,Malmo,2026-01
+2026-03-13,Travel,Flight,1402.94,card,SEK,Sj,Kristianstad,2026-03
+2026-05-04,Entertainment,Game,1446.84,cash,SEK,Ica,Helsingborg,2026-05
+2026-03-09,Travel,Museum,694.12,mobile_payment,SEK,Telia,Lund,2026-03
+2026-02-25,Food,Breakfast,1185.11,card,EUR,Akademibokhandeln,Kristianstad,2026-02
+2026-01-13,Travel,Flight,119.3,card,SEK,Lidl,Stockholm,2026-01
+2026-01-18,Entertainment,Game,218.22,cash,SEK,Coop,Stockholm,2026-01
+2026-01-21,Study,Printing,1497.49,cash,SEK,Akademibokhandeln,Malmo,2026-01
+2026-03-09,Study,Course Fee,1084.55,bank_transfer,SEK,Akademibokhandeln,Kristianstad,2026-03
+2026-01-03,Travel,Hotel,145.02,cash,SEK,Apoteket,Malmo,2026-01
+2026-03-31,Transport,Train Ticket,610.16,cash,SEK,,Stockholm,2026-03
+2026-06-17,Household,Cleaning Supplies,1078.55,bank_transfer,SEK,Sj,Malmo,2026-06
+2026-03-09,Transport,Bus Card,1195.59,cash,SEK,Hm,Stockholm,2026-03
+2026-02-23,Shopping,,1109.37,bank_transfer,SEK,Ikea,Lund,2026-02
+2026-01-14,Transport,Taxi,1332.08,card,SEK,Akademibokhandeln,Malmo,2026-01
+2026-06-13,Health,Clinic,1193.73,mobile_payment,SEK,Ica,Kristianstad,2026-06
+2026-01-20,Bills,Rent Share,86.56,bank_transfer,SEK,Skane Trafiken,Helsingborg,2026-01
+2026-02-02,Food,Restaurant,602.5,card,SEK,Telia,Malmo,2026-02
+2026-02-11,Bills,Mobile Plan,68.91,bank_transfer,SEK,Filmstaden,Lund,2026-02
+2026-02-10,Transport,Taxi,1399.3,mobile_payment,SEK,Telia,Helsingborg,2026-02
+2026-03-31,Health,Clinic,379.99,cash,SEK,Akademibokhandeln,Lund,2026-03
+2026-01-18,Health,Gym,1037.13,mobile_payment,SEK,Akademibokhandeln,Kristianstad,2026-01
+2026-01-30,Health,Clinic,941.53,bank_transfer,SEK,Sj,Stockholm,2026-01
+2026-04-22,Shopping,Shoes,715.14,card,SEK,Telia,Lund,2026-04
+2026-01-12,Study,Book,846.27,cash,SEK,Netflix,Kristianstad,2026-01
+2026-06-20,Shopping,Bag,522.85,card,SEK,Hm,Stockholm,2026-06
+2026-03-21,Study,Printing,661.77,bank_transfer,SEK,Skane Trafiken,Malmo,2026-03
+2026-04-18,Study,Course Fee,996.36,bank_transfer,SEK,Ica,Lund,2026-04
+2026-03-15,Entertainment,Game,1263.64,bank_transfer,SEK,,Helsingborg,2026-03
+2026-05-12,Shopping,Clothes,1314.92,cash,SEK,Hm,Malmo,2026-05
+2026-02-20,Bills,Electricity,102.56,mobile_payment,SEK,Lidl,Helsingborg,2026-02
+2026-04-17,Entertainment,Game,806.17,cash,SEK,Ica,Kristianstad,2026-04
+2026-04-19,Entertainment,Streaming,1292.45,mobile_payment,SEK,Filmstaden,Kristianstad,2026-04
+2026-04-27,Bills,Mobile Plan,1078.1,bank_transfer,EUR,Ryanair,Stockholm,2026-04
+2026-05-10,Study,Software,1438.62,mobile_payment,SEK,Apoteket,Malmo,2026-05
+2026-06-13,Health,Vitamins,1014.0,bank_transfer,SEK,Lidl,Lund,2026-06
+2026-03-02,Health,Gym,531.94,card,SEK,Skane Trafiken,Malmo,2026-03
+2026-04-09,Bills,Internet,130.84,mobile_payment,SEK,Ryanair,Helsingborg,2026-04
+2026-01-16,Entertainment,Game,641.48,card,DKK,Espresso House,Helsingborg,2026-01
+2026-02-26,Health,Vitamins,792.46,mobile_payment,SEK,Espresso House,Malmo,2026-02
+2026-04-30,Bills,Rent Share,868.57,mobile_payment,SEK,Ica,Kristianstad,2026-04
+2026-06-14,Study,Course Fee,1390.96,cash,SEK,Apoteket,Helsingborg,2026-06
+2026-03-25,Entertainment,Game,543.15,mobile_payment,SEK,Netflix,Lund,2026-03
+2026-01-21,Travel,Hotel,1205.97,card,SEK,Filmstaden,Kristianstad,2026-01
+2026-06-16,Food,Groceries,1520.89,cash,SEK,Skane Trafiken,Malmo,2026-06
+2026-02-02,Travel,Hotel,915.43,cash,SEK,,Lund,2026-02
+2026-02-12,Transport,Train Ticket,1544.61,card,SEK,Ica,Lund,2026-02
+2026-05-28,Study,Software,1508.11,cash,SEK,Filmstaden,Kristianstad,2026-05
+2026-06-28,Health,Pharmacy,1280.08,card,SEK,Netflix,Lund,2026-06
+2026-01-18,Household,Lamp,49.86,mobile_payment,SEK,Sj,Helsingborg,2026-01
+2026-04-03,Travel,Flight,713.71,bank_transfer,SEK,Ikea,Helsingborg,2026-04
+2026-04-22,Health,,1367.19,card,SEK,Ryanair,Malmo,2026-04
+2026-04-29,Study,Printing,75.06,bank_transfer,SEK,Ikea,Malmo,2026-04
+2026-04-01,Health,Gym,469.06,bank_transfer,SEK,Ica,Stockholm,2026-04
+2026-02-18,Transport,Train Ticket,1160.52,mobile_payment,SEK,Filmstaden,Helsingborg,2026-02
+2026-06-15,Travel,Local Transport,1274.9,card,SEK,Filmstaden,Helsingborg,2026-06
+2026-05-21,Shopping,Shoes,1133.48,bank_transfer,SEK,Apoteket,Malmo,2026-05
+2026-01-31,Entertainment,Concert,217.7,cash,SEK,Telia,Helsingborg,2026-01
+2026-03-12,Household,Lamp,1569.4,cash,SEK,Filmstaden,Lund,2026-03
+2026-02-15,Health,Pharmacy,1141.59,cash,SEK,Coop,Kristianstad,2026-02
+2026-03-14,Travel,Local Transport,721.54,cash,SEK,Apoteket,Helsingborg,2026-03
+2026-01-30,Transport,Taxi,802.04,card,SEK,Skane Trafiken,Stockholm,2026-01
+2026-03-19,Transport,Train Ticket,215.97,mobile_payment,SEK,,Stockholm,2026-03
+2026-04-08,Travel,Local Transport,496.84,mobile_payment,SEK,Coop,Stockholm,2026-04
+2026-01-26,Entertainment,Streaming,445.49,card,SEK,Filmstaden,Malmo,2026-01
+2026-05-22,Transport,Train Ticket,34.2,mobile_payment,SEK,Ikea,Lund,2026-05
+2026-01-09,Entertainment,Concert,1139.92,mobile_payment,SEK,Filmstaden,Lund,2026-01
+2026-06-10,Entertainment,Game,210.2,cash,SEK,Skane Trafiken,Lund,2026-06
+2026-02-06,Transport,Bus Card,290.5,bank_transfer,SEK,Hm,Helsingborg,2026-02
+2026-02-01,Travel,Museum,1128.58,bank_transfer,SEK,Ikea,Helsingborg,2026-02
+2026-01-21,Food,Lunch,1183.22,bank_transfer,SEK,Lidl,Malmo,2026-01
+2026-06-22,Food,Snacks,1319.63,card,DKK,Eon,Helsingborg,2026-06
+2026-05-13,Travel,Museum,314.94,mobile_payment,SEK,Ikea,Kristianstad,2026-05
+2026-05-01,Shopping,Gift,553.29,card,SEK,Akademibokhandeln,Helsingborg,2026-05
+2026-06-27,Travel,Museum,1070.26,mobile_payment,DKK,Coop,Helsingborg,2026-06
+2026-01-23,Shopping,Shoes,537.54,mobile_payment,SEK,Ica,Stockholm,2026-01
+2026-04-29,Study,Book,324.5,bank_transfer,SEK,Ikea,Helsingborg,2026-04
+2026-01-14,Entertainment,Concert,892.27,bank_transfer,SEK,Ikea,Kristianstad,2026-01
+2026-01-08,Entertainment,Streaming,517.88,card,SEK,Netflix,Kristianstad,2026-01
+2026-02-27,Transport,Taxi,1516.89,cash,SEK,Hm,Stockholm,2026-02
+2026-03-11,Study,Software,1568.98,cash,SEK,Skane Trafiken,Helsingborg,2026-03
+2026-02-18,Household,Kitchen Items,1386.52,bank_transfer,DKK,,Lund,2026-02
+2026-06-28,Entertainment,Game,396.69,mobile_payment,SEK,Akademibokhandeln,Helsingborg,2026-06
+2026-04-08,Study,Course Fee,807.67,card,SEK,Akademibokhandeln,Kristianstad,2026-04
+2026-04-23,Transport,Parking,1459.39,card,SEK,Skane Trafiken,Helsingborg,2026-04
+2026-06-17,Bills,Electricity,767.1,bank_transfer,SEK,Espresso House,Kristianstad,2026-06
+2026-03-26,Household,Chair,1528.0,mobile_payment,SEK,Coop,Stockholm,2026-03
+2026-01-18,Entertainment,Concert,1595.96,card,SEK,Sj,Kristianstad,2026-01
+2026-04-24,Bills,,1448.38,card,SEK,Coop,Lund,2026-04
+2026-04-02,Shopping,Gift,258.54,mobile_payment,SEK,Eon,Malmo,2026-04
+2026-02-14,Transport,Parking,1397.22,cash,SEK,Skane Trafiken,Malmo,2026-02
+2026-04-29,Health,Vitamins,430.86,card,SEK,Hm,Stockholm,2026-04
+2026-02-10,Transport,Taxi,1514.02,bank_transfer,SEK,Netflix,Lund,2026-02
+2026-04-27,Health,Clinic,1599.02,mobile_payment,SEK,Filmstaden,Helsingborg,2026-04
+2026-05-27,Shopping,Bag,494.52,bank_transfer,SEK,Espresso House,Lund,2026-05
+2026-01-03,Food,Breakfast,1199.92,bank_transfer,DKK,Filmstaden,Stockholm,2026-01
+2026-04-01,Entertainment,Streaming,1004.8,cash,SEK,Sj,Kristianstad,2026-04
+2026-03-21,Travel,Hotel,939.93,cash,SEK,Hm,Lund,2026-03
+2026-04-17,Bills,Internet,237.49,bank_transfer,SEK,,Malmo,2026-04
+2026-03-07,Travel,Museum,1202.1,bank_transfer,SEK,Ryanair,Kristianstad,2026-03
+2026-02-06,Entertainment,Game,1548.61,bank_transfer,SEK,Espresso House,Kristianstad,2026-02
+2026-03-09,Household,Cleaning Supplies,744.01,bank_transfer,SEK,Espresso House,Lund,2026-03
+2026-01-28,Entertainment,Game,69.29,bank_transfer,SEK,Filmstaden,Kristianstad,2026-01
+2026-03-19,Travel,Hotel,182.59,cash,SEK,Ryanair,Lund,2026-03
+2026-06-21,Household,Chair,952.12,cash,SEK,Sj,Helsingborg,2026-06
+2026-06-07,Study,Printing,81.36,bank_transfer,SEK,Ryanair,Helsingborg,2026-06
+2026-03-02,Shopping,Clothes,1570.06,bank_transfer,SEK,Shell,Kristianstad,2026-03
+2026-04-12,Health,Clinic,1550.08,mobile_payment,SEK,Telia,Stockholm,2026-04
+2026-01-06,Food,Restaurant,412.4,cash,SEK,Telia,Kristianstad,2026-01
+2026-01-01,Health,Clinic,1580.42,bank_transfer,SEK,Sj,Kristianstad,2026-01
+2026-02-03,Food,Restaurant,1270.28,cash,SEK,Akademibokhandeln,Kristianstad,2026-02
+2026-02-14,Health,Pharmacy,229.01,mobile_payment,SEK,Sj,Kristianstad,2026-02
+2026-05-02,Travel,Museum,835.78,card,SEK,Filmstaden,Stockholm,2026-05
+2026-01-12,Household,Lamp,749.13,card,SEK,Ikea,Helsingborg,2026-01
+2026-04-20,Transport,Taxi,1148.47,mobile_payment,SEK,Lidl,Lund,2026-04
+2026-06-05,Bills,Electricity,228.12,bank_transfer,SEK,,Helsingborg,2026-06
+2026-05-10,Study,Book,1275.16,card,SEK,Telia,Helsingborg,2026-05
+2026-04-26,Entertainment,Game,562.12,mobile_payment,SEK,Netflix,Kristianstad,2026-04
+2026-03-22,Study,Printing,1074.22,bank_transfer,SEK,Ikea,Kristianstad,2026-03
+2026-01-24,Transport,Bus Card,708.05,bank_transfer,SEK,Coop,Stockholm,2026-01
+2026-05-24,Household,Lamp,1081.92,mobile_payment,SEK,Netflix,Kristianstad,2026-05
+2026-03-15,Health,Gym,192.65,cash,SEK,Ikea,Malmo,2026-03
+2026-01-28,Shopping,Bag,607.07,bank_transfer,SEK,Filmstaden,Helsingborg,2026-01
+2026-05-24,Household,Cleaning Supplies,986.12,bank_transfer,SEK,Eon,Lund,2026-05
+2026-02-06,Food,Groceries,1201.4,cash,SEK,Netflix,Helsingborg,2026-02
+2026-03-29,Bills,Water Bill,519.27,bank_transfer,DKK,Lidl,Kristianstad,2026-03
+2026-02-09,Bills,,108.13,card,SEK,Ryanair,Helsingborg,2026-02
+2026-05-05,Travel,Local Transport,458.87,card,SEK,Netflix,Kristianstad,2026-05
+2026-03-14,Travel,Museum,101.31,mobile_payment,SEK,Coop,Kristianstad,2026-03
+2026-02-22,Health,Clinic,1234.74,bank_transfer,SEK,Akademibokhandeln,Kristianstad,2026-02
+2026-01-02,Travel,Local Transport,305.84,mobile_payment,SEK,Filmstaden,Stockholm,2026-01
+2026-05-24,Shopping,Clothes,653.4,card,SEK,Ica,Helsingborg,2026-05
+2026-01-20,Shopping,Bag,703.98,mobile_payment,SEK,Netflix,Lund,2026-01
+2026-01-30,Study,Book,1546.93,cash,SEK,,Lund,2026-01
+2026-01-23,Study,Book,412.01,mobile_payment,SEK,Lidl,Helsingborg,2026-01
+2026-03-21,Shopping,Notebook,552.92,cash,SEK,Sj,Stockholm,2026-03
+2026-03-07,Entertainment,Streaming,975.77,card,SEK,Ikea,Helsingborg,2026-03
+2026-05-25,Travel,Museum,1386.87,bank_transfer,SEK,Ryanair,Kristianstad,2026-05
+2026-05-01,Travel,Museum,1280.24,card,SEK,Lidl,Lund,2026-05
+2026-04-29,Travel,Hotel,119.32,bank_transfer,SEK,Lidl,Stockholm,2026-04
+2026-06-02,Household,Chair,756.46,card,SEK,Telia,Lund,2026-06
+2026-06-04,Travel,Flight,1533.62,mobile_payment,SEK,Akademibokhandeln,Kristianstad,2026-06
+2026-05-10,Bills,Electricity,418.96,mobile_payment,SEK,Eon,Lund,2026-05
+2026-04-06,Health,Vitamins,671.77,bank_transfer,SEK,Coop,Lund,2026-04
+2026-01-17,Shopping,Clothes,906.0,mobile_payment,SEK,Apoteket,Stockholm,2026-01
+2026-02-03,Transport,Fuel,907.51,bank_transfer,SEK,Lidl,Helsingborg,2026-02
+2026-05-11,Shopping,Clothes,599.28,cash,SEK,Akademibokhandeln,Helsingborg,2026-05
+2026-02-19,Entertainment,Streaming,273.26,bank_transfer,SEK,Coop,Lund,2026-02
+2026-06-08,Bills,Rent Share,621.45,cash,SEK,Eon,Helsingborg,2026-06
+2026-01-12,Study,Printing,1091.89,cash,SEK,Hm,Helsingborg,2026-01
+2026-03-01,Household,Kitchen Items,515.86,mobile_payment,SEK,,Stockholm,2026-03
+2026-04-23,Travel,Museum,1251.65,mobile_payment,SEK,Telia,Stockholm,2026-04
+2026-02-05,Health,Pharmacy,1036.65,bank_transfer,SEK,Sj,Stockholm,2026-02
+2026-02-01,Health,Pharmacy,1228.09,bank_transfer,SEK,Skane Trafiken,Helsingborg,2026-02
+2026-01-24,Entertainment,Game,1418.87,card,SEK,Coop,Helsingborg,2026-01
+2026-05-09,Shopping,Notebook,636.28,card,SEK,Filmstaden,Kristianstad,2026-05
+2026-03-23,Transport,Fuel,1272.47,cash,SEK,Hm,Helsingborg,2026-03
+2026-06-28,Bills,Mobile Plan,734.3,card,SEK,Ica,Lund,2026-06
+2026-02-25,Bills,Rent Share,1506.15,mobile_payment,SEK,Hm,Malmo,2026-02
+2026-03-19,Transport,Bus Card,404.35,mobile_payment,SEK,Sj,Helsingborg,2026-03
+2026-06-02,Household,Cleaning Supplies,1022.17,cash,SEK,Skane Trafiken,Lund,2026-06
+2026-04-20,Food,Breakfast,583.92,mobile_payment,SEK,Lidl,Stockholm,2026-04
+2026-04-03,Transport,Parking,884.21,card,SEK,Ikea,Kristianstad,2026-04
+2026-03-03,Transport,Parking,1184.24,bank_transfer,SEK,Coop,Lund,2026-03
+2026-05-20,Shopping,,1333.7,mobile_payment,SEK,Ikea,Malmo,2026-05
+2026-02-04,Transport,Taxi,88.06,cash,SEK,Telia,Kristianstad,2026-02
+2026-03-15,Shopping,Clothes,1389.3,bank_transfer,SEK,Sj,Lund,2026-03
+2026-04-22,Study,Software,1434.58,mobile_payment,SEK,,Helsingborg,2026-04
+2026-06-27,Travel,Museum,1481.17,bank_transfer,SEK,Netflix,Kristianstad,2026-06
+2026-04-21,Bills,Rent Share,491.21,card,SEK,Akademibokhandeln,Lund,2026-04
+2026-03-20,Travel,Local Transport,291.63,mobile_payment,SEK,Ryanair,Kristianstad,2026-03
+2026-04-01,Study,Printing,1033.97,card,SEK,Espresso House,Lund,2026-04
+2026-05-12,Bills,Electricity,254.16,mobile_payment,SEK,Skane Trafiken,Kristianstad,2026-05
+2026-03-02,Shopping,Shoes,631.08,card,SEK,Skane Trafiken,Helsingborg,2026-03
+2026-04-05,Shopping,Gift,1228.04,cash,SEK,Shell,Helsingborg,2026-04
+2026-03-22,Health,Clinic,1538.02,card,EUR,Eon,Helsingborg,2026-03
+2026-05-13,Study,Book,440.99,bank_transfer,SEK,Ryanair,Malmo,2026-05
+2026-06-06,Health,Vitamins,344.28,cash,SEK,Ryanair,Malmo,2026-06
+2026-04-24,Transport,Fuel,1078.51,card,SEK,Hm,Lund,2026-04
+2026-02-10,Bills,Water Bill,828.75,card,SEK,Skane Trafiken,Malmo,2026-02
+2026-05-07,Food,Restaurant,899.81,bank_transfer,SEK,Skane Trafiken,Stockholm,2026-05
+2026-01-23,Transport,Fuel,655.11,mobile_payment,SEK,Netflix,Helsingborg,2026-01
+2026-05-28,Transport,Train Ticket,1556.64,card,SEK,Ryanair,Stockholm,2026-05
+2026-03-30,Bills,Rent Share,1034.48,cash,DKK,Skane Trafiken,Helsingborg,2026-03
+2026-05-09,Food,Groceries,843.42,bank_transfer,SEK,Eon,Lund,2026-05
+2026-02-27,Shopping,Bag,1435.03,card,SEK,Telia,Stockholm,2026-02
+2026-03-12,Bills,Water Bill,994.65,card,SEK,,Stockholm,2026-03
+2026-05-29,Bills,Internet,1064.21,bank_transfer,SEK,Coop,Kristianstad,2026-05
+2026-04-17,Food,Lunch,1425.73,bank_transfer,SEK,Hm,Helsingborg,2026-04
+2026-05-04,Travel,Flight,564.1,cash,SEK,Akademibokhandeln,Lund,2026-05
+2026-04-13,Bills,Water Bill,838.52,card,SEK,Filmstaden,Helsingborg,2026-04
+2026-02-01,Health,Vitamins,419.23,card,SEK,Hm,Helsingborg,2026-02
+2026-06-07,Study,Course Fee,1541.42,cash,SEK,Akademibokhandeln,Malmo,2026-06
+2026-02-10,Travel,Local Transport,813.05,bank_transfer,SEK,Ica,Kristianstad,2026-02
+2026-04-11,Household,Chair,1547.7,cash,SEK,Shell,Kristianstad,2026-04
+2026-01-13,Health,Vitamins,968.1,mobile_payment,SEK,Ica,Kristianstad,2026-01
+2026-04-21,Bills,Water Bill,1172.19,mobile_payment,SEK,Coop,Helsingborg,2026-04
+2026-01-14,Household,Kitchen Items,599.16,bank_transfer,SEK,Espresso House,Stockholm,2026-01
+2026-04-26,Household,Lamp,1325.74,card,SEK,Sj,Helsingborg,2026-04
+2026-04-06,Shopping,Bag,1504.15,cash,SEK,Espresso House,Stockholm,2026-04
+2026-01-11,Food,Groceries,245.15,bank_transfer,SEK,Ryanair,Malmo,2026-01
+2026-06-05,Household,Kitchen Items,544.91,bank_transfer,SEK,Espresso House,Stockholm,2026-06
+2026-03-18,Shopping,,1330.41,mobile_payment,SEK,Hm,Helsingborg,2026-03
+2026-01-05,Shopping,Shoes,1087.88,mobile_payment,SEK,,Kristianstad,2026-01
+2026-06-02,Travel,Museum,1548.3,cash,SEK,Coop,Stockholm,2026-06
+2026-05-03,Bills,Rent Share,1017.57,mobile_payment,SEK,Filmstaden,Kristianstad,2026-05
+2026-05-27,Transport,Train Ticket,59.73,bank_transfer,SEK,Skane Trafiken,Helsingborg,2026-05
+2026-06-26,Entertainment,Game,817.86,mobile_payment,EUR,Coop,Malmo,2026-06
+2026-05-13,Entertainment,Concert,1597.05,mobile_payment,SEK,Espresso House,Lund,2026-05
+2026-03-05,Health,Gym,383.04,bank_transfer,DKK,Hm,Malmo,2026-03
+2026-06-26,Travel,Museum,783.29,bank_transfer,SEK,Sj,Stockholm,2026-06
+2026-06-23,Household,Chair,1436.34,mobile_payment,SEK,Skane Trafiken,Lund,2026-06
+2026-01-11,Health,Pharmacy,573.79,mobile_payment,SEK,Apoteket,Helsingborg,2026-01
+2026-02-24,Entertainment,Concert,1494.85,bank_transfer,SEK,Sj,Stockholm,2026-02
+2026-05-31,Entertainment,Streaming,109.7,cash,SEK,Filmstaden,Kristianstad,2026-05
+2026-01-26,Study,Printing,1156.25,card,SEK,Skane Trafiken,Kristianstad,2026-01
+2026-03-24,Health,Pharmacy,1455.46,card,SEK,Filmstaden,Stockholm,2026-03
+2026-01-10,Bills,Mobile Plan,1415.12,cash,SEK,Espresso House,Helsingborg,2026-01
+2026-02-17,Health,Pharmacy,44.55,card,SEK,Hm,Helsingborg,2026-02
+2026-06-14,Household,Chair,1426.14,cash,SEK,Ryanair,Lund,2026-06
+2026-02-19,Transport,Fuel,285.12,mobile_payment,SEK,,Malmo,2026-02
+2026-01-04,Shopping,Shoes,921.42,cash,SEK,Espresso House,Helsingborg,2026-01
+2026-05-12,Shopping,Clothes,659.31,card,SEK,Skane Trafiken,Helsingborg,2026-05
+2026-03-24,Entertainment,Movie,439.43,cash,SEK,Apoteket,Lund,2026-03
+2026-03-19,Food,Restaurant,1056.28,cash,SEK,Sj,Helsingborg,2026-03
+2026-03-20,Bills,Mobile Plan,1107.14,bank_transfer,SEK,Sj,Lund,2026-03
+2026-04-05,Entertainment,Streaming,1533.06,mobile_payment,SEK,Ryanair,Stockholm,2026-04
+2026-04-06,Study,Software,1219.04,cash,DKK,Filmstaden,Stockholm,2026-04
+2026-01-21,Household,Chair,859.23,bank_transfer,SEK,Sj,Kristianstad,2026-01
+2026-05-21,Household,Kitchen Items,929.14,cash,SEK,Akademibokhandeln,Stockholm,2026-05
+2026-04-27,Bills,Rent Share,682.22,card,SEK,Ryanair,Lund,2026-04
+2026-01-06,Study,Printing,1311.83,cash,SEK,Lidl,Kristianstad,2026-01
+2026-04-19,Shopping,Clothes,879.63,card,SEK,Ikea,Kristianstad,2026-04
+2026-03-15,Study,Course Fee,1237.29,mobile_payment,SEK,Espresso House,Helsingborg,2026-03
+2026-04-07,Study,Book,1101.89,cash,SEK,Shell,Kristianstad,2026-04
+2026-02-15,Household,Chair,860.28,cash,SEK,Ica,Lund,2026-02
+2026-04-29,Household,Chair,865.14,cash,SEK,Ryanair,Lund,2026-04
+2026-02-09,Health,Clinic,1501.73,card,SEK,Netflix,Stockholm,2026-02
+2026-01-05,Entertainment,Streaming,135.65,card,SEK,,Malmo,2026-01
+2026-01-12,Study,Software,397.91,cash,EUR,Coop,Malmo,2026-01
+2026-05-09,Health,,1310.78,bank_transfer,SEK,Akademibokhandeln,Malmo,2026-05
+2026-03-19,Bills,Rent Share,377.04,bank_transfer,SEK,Coop,Stockholm,2026-03
+2026-06-01,Bills,Mobile Plan,902.69,card,SEK,Espresso House,Stockholm,2026-06
+2026-02-27,Health,Clinic,1295.07,card,SEK,Netflix,Helsingborg,2026-02
+2026-05-23,Household,Kitchen Items,639.82,bank_transfer,SEK,Akademibokhandeln,Kristianstad,2026-05
+2026-04-26,Shopping,Clothes,870.95,cash,SEK,Apoteket,Helsingborg,2026-04
+2026-06-22,Food,Groceries,325.42,cash,SEK,Telia,Lund,2026-06
+2026-03-19,Food,Coffee,1501.34,card,EUR,Ikea,Malmo,2026-03
+2026-06-28,Entertainment,Game,1466.75,bank_transfer,DKK,Hm,Helsingborg,2026-06
+2026-04-30,Household,Lamp,514.22,bank_transfer,SEK,Ikea,Helsingborg,2026-04
+2026-01-26,Travel,Museum,1465.5,bank_transfer,SEK,Netflix,Kristianstad,2026-01
+2026-03-26,Entertainment,Game,924.57,cash,SEK,Akademibokhandeln,Lund,2026-03
+2026-05-06,Travel,Local Transport,294.13,bank_transfer,SEK,Skane Trafiken,Stockholm,2026-05
+2026-05-06,Bills,Rent Share,1584.81,card,SEK,Coop,Kristianstad,2026-05
+2026-06-21,Food,Groceries,677.46,cash,SEK,Skane Trafiken,Kristianstad,2026-06
+2026-02-25,Household,Chair,615.93,mobile_payment,SEK,,Kristianstad,2026-02
+2026-01-02,Household,Chair,48.61,bank_transfer,SEK,Hm,Kristianstad,2026-01
+2026-05-09,Study,Course Fee,198.02,card,SEK,Skane Trafiken,Malmo,2026-05
+2026-02-19,Household,Lamp,1309.89,bank_transfer,SEK,Lidl,Lund,2026-02
+2026-04-14,Travel,Flight,1584.67,cash,SEK,Lidl,Kristianstad,2026-04
+2026-01-24,Study,Software,622.16,mobile_payment,SEK,Ica,Malmo,2026-01
+2026-01-22,Travel,Local Transport,1042.5,bank_transfer,SEK,Sj,Stockholm,2026-01
+2026-01-11,Entertainment,Streaming,1445.0,mobile_payment,SEK,Coop,Kristianstad,2026-01
+2026-06-25,Health,Pharmacy,311.59,bank_transfer,SEK,Telia,Stockholm,2026-06
+2026-02-06,Study,Book,499.86,cash,SEK,Espresso House,Stockholm,2026-02
+2026-03-26,Study,Course Fee,1271.08,card,SEK,Shell,Kristianstad,2026-03
+2026-01-26,Study,Course Fee,1346.72,bank_transfer,SEK,Espresso House,Lund,2026-01
+2026-01-08,Health,Vitamins,800.25,bank_transfer,SEK,Espresso House,Helsingborg,2026-01
+2026-02-17,Study,Book,1242.3,bank_transfer,SEK,Lidl,Kristianstad,2026-02
+2026-03-10,Bills,Mobile Plan,1147.33,cash,EUR,Espresso House,Lund,2026-03
+2026-01-27,Bills,Electricity,324.21,mobile_payment,SEK,Netflix,Kristianstad,2026-01
+2026-01-07,Transport,Fuel,900.13,bank_transfer,SEK,Ica,Lund,2026-01
+2026-02-13,Bills,Water Bill,502.78,mobile_payment,SEK,,Malmo,2026-02
+2026-04-22,Health,Vitamins,500.61,card,SEK,Apoteket,Malmo,2026-04
+2026-06-10,Travel,Flight,748.84,cash,SEK,Ica,Helsingborg,2026-06
+2026-03-27,Study,Printing,721.15,mobile_payment,SEK,Skane Trafiken,Lund,2026-03
+2026-03-24,Entertainment,Game,523.27,mobile_payment,SEK,Hm,Helsingborg,2026-03
+2026-05-28,Entertainment,,620.41,mobile_payment,SEK,Sj,Stockholm,2026-05
+2026-02-21,Household,Kitchen Items,1100.29,card,EUR,Ryanair,Malmo,2026-02
+2026-04-23,Health,Pharmacy,1315.78,mobile_payment,SEK,Ikea,Malmo,2026-04
+2026-06-12,Health,Clinic,426.71,cash,SEK,Netflix,Helsingborg,2026-06
+2026-01-19,Travel,Local Transport,944.12,mobile_payment,SEK,Coop,Lund,2026-01
+2026-06-29,Household,Cleaning Supplies,201.71,cash,SEK,Shell,Malmo,2026-06
+2026-06-15,Food,Breakfast,1574.26,mobile_payment,EUR,Akademibokhandeln,Helsingborg,2026-06
+2026-01-28,Food,Groceries,436.22,cash,SEK,Shell,Helsingborg,2026-01
+2026-04-29,Household,Kitchen Items,571.6,card,SEK,Sj,Lund,2026-04
+2026-04-17,Transport,Bus Card,1335.17,cash,SEK,Hm,Lund,2026-04
+2026-04-27,Entertainment,Game,576.83,card,SEK,Ryanair,Lund,2026-04
+2026-01-18,Health,Pharmacy,1301.99,card,SEK,Akademibokhandeln,Kristianstad,2026-01
+2026-06-23,Bills,Internet,840.11,cash,SEK,Netflix,Helsingborg,2026-06
+2026-03-01,Study,Course Fee,322.63,mobile_payment,SEK,Ica,Stockholm,2026-03
+2026-02-20,Travel,Local Transport,640.47,cash,SEK,,Kristianstad,2026-02
+2026-05-28,Transport,Parking,323.53,bank_transfer,SEK,Ryanair,Kristianstad,2026-05
+2026-03-09,Travel,Museum,967.24,mobile_payment,SEK,Sj,Lund,2026-03
+2026-03-22,Transport,Train Ticket,509.45,cash,SEK,Skane Trafiken,Stockholm,2026-03
+2026-04-10,Study,Course Fee,932.45,mobile_payment,SEK,Ikea,Stockholm,2026-04
+2026-04-26,Food,Restaurant,1524.39,mobile_payment,SEK,Telia,Helsingborg,2026-04
+2026-05-24,Household,Chair,672.34,mobile_payment,SEK,Ryanair,Helsingborg,2026-05
+2026-02-12,Transport,Parking,78.45,cash,SEK,Coop,Lund,2026-02
+2026-02-27,Household,Lamp,294.09,mobile_payment,SEK,Ikea,Stockholm,2026-02
+2026-05-11,Transport,Parking,209.3,bank_transfer,SEK,Coop,Helsingborg,2026-05
+2026-05-20,Entertainment,Game,190.79,cash,SEK,Coop,Helsingborg,2026-05
+2026-03-09,Shopping,Clothes,719.34,card,DKK,Filmstaden,Malmo,2026-03
+2026-05-31,Shopping,Bag,1023.45,cash,SEK,Skane Trafiken,Malmo,2026-05
+2026-02-22,Food,Breakfast,580.78,bank_transfer,SEK,Eon,Lund,2026-02
+2026-03-16,Health,Gym,1525.26,card,SEK,Netflix,Kristianstad,2026-03
+2026-03-12,Bills,Internet,421.99,bank_transfer,SEK,Espresso House,Helsingborg,2026-03
+2026-02-06,Health,Vitamins,619.02,card,SEK,Lidl,Helsingborg,2026-02
+2026-05-12,Health,Gym,743.87,mobile_payment,SEK,,Kristianstad,2026-05
+2026-04-28,Shopping,Clothes,1279.21,mobile_payment,SEK,Netflix,Malmo,2026-04
+2026-05-07,Health,Gym,1330.5,bank_transfer,SEK,Skane Trafiken,Stockholm,2026-05
+2026-05-05,Shopping,Clothes,102.13,mobile_payment,SEK,Sj,Malmo,2026-05
+2026-04-23,Travel,Hotel,1587.19,mobile_payment,SEK,Skane Trafiken,Lund,2026-04
+2026-02-10,Health,Pharmacy,1057.7,bank_transfer,SEK,Shell,Malmo,2026-02
+2026-01-14,Study,Printing,1169.8,cash,SEK,Lidl,Kristianstad,2026-01
+2026-01-03,Shopping,,1581.4,mobile_payment,SEK,Skane Trafiken,Helsingborg,2026-01

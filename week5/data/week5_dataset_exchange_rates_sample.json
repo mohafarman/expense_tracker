@@ -1,0 +1,9 @@
+{
+  "base": "SEK",
+  "rates": {
+    "EUR": 0.088,
+    "DKK": 0.65,
+    "SEK": 1.0
+  },
+  "note": "Sample exchange-rate data for optional project extension."
+}
